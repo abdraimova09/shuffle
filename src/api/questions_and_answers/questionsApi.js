@@ -10,7 +10,12 @@ import {
 //   .concat(localStorageQuestions)
 //   .concat(httpRequestsQuestions);
 // const questionsData = localStorageQuestions;
-const questionsData = jsQuestions;
+const questionsData = [
+  ...jsQuestions,
+  ...domQuestions,
+  ...localStorageQuestions,
+  ...httpRequestsQuestions,
+];
 // const questionsData = HTMLQuestions;
 export function getQuestions() {
   return questionsData;
