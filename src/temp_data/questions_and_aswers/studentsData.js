@@ -1,92 +1,95 @@
 export default [
   {
-    name: "Самарбекова Чынара",
+    name: "Студент",
     is_active: true,
   },
   // {
-  //   name: "Тилевалдыев Жоодар",
+  //   name: "Айжан",
   //   is_active: true,
   // },
-  {
-    name: "Мусалиев Улан",
-    is_active: true,
-  },
-  {
-    name: "Медияр уулу Абсамат",
-    is_active: true,
-  },
-  {
-    name: "Сарыбаева Айзада",
-    is_active: true,
-  },
-  {
-    name: "Хакимова Беназир",
-    is_active: true,
-  },
-  {
-    name: "Болотбеков Актан",
-    is_active: true,
-  },
-  {
-    name: "Каскеев Эльдияр",
-    is_active: true,
-  },
-  {
-    name: "Аманкожоева Тахмина",
-    is_active: true,
-  },
   // {
-  //   name: "Закиряева Замира",
+  //   name: "Жазгуль",
   //   is_active: true,
   // },
-  {
-    name: "Желденбаев Азим",
-    is_active: true,
-  },
-  {
-    name: "Нурланова Алсу",
-    is_active: true,
-  },
-  {
-    name: "Абыкеев Данияр",
-    is_active: true,
-  },
+  // {
+  //   name: "Йогурт",
+  //   is_active: true,
+  // },
+  // {
+  //   name: "Эркинбек",
+  //   is_active: true,
+  // },
+  // {
+  //   name: "Нурсултан Б",
+  //   is_active: true,
+  // },
+  // {
+  //   name: "Айдар",
+  //   is_active: true,
+  // },
+  // {
+  //   name: "Максат",
+  //   is_active: true,
+  // },
+  // {
+  //   name: "Рабат",
+  //   is_active: true,
+  // },
+  // {
+  //   name: "Байыш К",
+  //   is_active: true,
+  // },
+  // {
+  //   name: "Болот",
+  //   is_active: true,
+  // },
+  // {
+  //   name: "Илим",
+  //   is_active: true,
+  // },
 
-  {
-    name: "Джумадилова Алина",
-    is_active: true,
-  },
-  {
-    name: "Абасбеков Эрадил",
-    is_active: true,
-  },
-  {
-    name: "Джафаров Мамед",
-    is_active: true,
-  },
-  {
-    name: "Абдыкадыров Бекболсун",
-    is_active: true,
-  },
-  {
-    name: "Абдисаттарова Махабат",
-    is_active: true,
-  },
-
-  {
-    name: "Жусубалиев Эркинбек",
-    is_active: true,
-  },
   // {
-  //   name: "Туратбек к Айзада",
+  //   name: "Алымбек",
   //   is_active: true,
   // },
-  {
-    name: "Усупова Адина",
-    is_active: true,
-  },
   // {
-  //   name: "Осмонов Улукмырза",
+  //   name: "Руслан",
+  //   is_active: true,
+  // },
+  // {
+  //   name: "Эрмек",
+  //   is_active: true,
+  // },
+  // {
+  //   name: "Айдана М",
+  //   is_active: true,
+  // },
+  // {
+  //   name: "Аида",
+  //   is_active: true,
+  // },
+  // {
+  //   name: "Улан",
+  //   is_active: true,
+  // },
+  // {
+  //   name: "Нурсултан Т",
+  //   is_active: true,
+  // },
+  // {
+  //   name: "Данияр",
+  //   is_active: true,
+  // },
+  // {
+  //   name: "Алихан",
+  //   is_active: true,
+  // },
+  // {
+  //   name: "Джалиль",
+  //   is_active: true,
+  // },
+  // {
+  //   name: "Бексултан",
   //   is_active: true,
   // },
 ];
